@@ -167,6 +167,10 @@ hr.small {
     -o-background-size: cover;
 }
 
+.header .text-vertical-center {
+  padding-bottom: 150px;
+}
+
 /* styles for the elixir logo */
 .text-vertical-center h1 img {
     height: 150px;
