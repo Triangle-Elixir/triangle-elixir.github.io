@@ -188,7 +188,7 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    padding: 100px 0;
 }
 
 /* Services */
@@ -206,13 +206,17 @@ hr.small {
 .callout {
     display: table;
     width: 100%;
-    height: 400px;
+    height: 600px;
     color: #fff;
     background: url(../img/frontier.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.callout .text-vertical-center h1 {
+  font-size: 42px;
 }
 
 /* Portfolio */
