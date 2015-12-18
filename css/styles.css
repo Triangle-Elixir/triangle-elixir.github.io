@@ -25,6 +25,10 @@ body {
     background-color: #624b70;
 }
 
+.bg-elixir-purple a {
+    color: #aaa;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
