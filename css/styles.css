@@ -20,6 +20,11 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+#upcoming-meetups a {
+  color: white;
+  text-decoration: underling;
+}
+
 .bg-elixir-purple {
     color: #fff;
     background-color: #624b70;
